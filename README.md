@@ -7,8 +7,8 @@ Currently in Skydra, Greece. Seeking on-site positions in Ireland.
 
 ### Open source contributions
 
-* [woocommerce](https://github.com/woocommerce/woocommerce/issues?q=author%3Aclustercis)
-* [appimagepool](https://github.com/prateekmedia/appimagepool/issues?q=author%3Atdiam)
-* [discourse](https://github.com/discourse/discourse/issues?q=author%3Atdiam)
-* [graphene](https://github.com/graphql-python/graphene/issues?q=author%3Atdiam)
-* [tsqlstring](https://github.com/kylefarris/tsqlstring/issues?q=author%3Atdiam)
+[woocommerce](https://github.com/woocommerce/woocommerce/issues?q=author%3Aclustercis)
+| [appimagepool](https://github.com/prateekmedia/appimagepool/issues?q=author%3Atdiam)
+| [discourse](https://github.com/discourse/discourse/issues?q=author%3Atdiam)
+| [graphene](https://github.com/graphql-python/graphene/issues?q=author%3Atdiam)
+| [tsqlstring](https://github.com/kylefarris/tsqlstring/issues?q=author%3Atdiam)
