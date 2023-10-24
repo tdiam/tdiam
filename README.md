@@ -1,16 +1,10 @@
 ### Hi there 👋
 
-I'm a Web & Software Engineer that delights in crafting apps and automating stuff.
-
-Currently in Skydra, Greece. Seeking on-site positions in Ireland.
+I'm a Web & Software Engineer that delights in crafting apps and automating stuff. Currently in Skydra, Greece. Seeking on-site positions in Ireland.
 
 #### [💼 Portfolio](https://portfolio.tdiam.me) · [Résumé](https://portfolio.tdiam.me/about) · [Get in touch](https://portfolio.tdiam.me/contact)
 
-### My life on GitHub
-
-Below you can see my open-source projects.
-
-#### Contributions to other projects
+### Open source contributions
 
 * [woocommerce](https://github.com/woocommerce/woocommerce/issues?q=author%3Aclustercis)
 * [appimagepool](https://github.com/prateekmedia/appimagepool/issues?q=author%3Atdiam)
