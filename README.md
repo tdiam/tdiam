@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I'm a Web & Software Engineer that delights in crafting apps and automating stuff.  
-Seeking on-site positions in Ireland.
 
 #### [💼 Portfolio](https://portfolio.tdiam.me) · [Résumé](https://portfolio.tdiam.me/about) · [Get in touch](https://portfolio.tdiam.me/contact)
 
