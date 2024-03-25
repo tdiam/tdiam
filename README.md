@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a Web & Software Engineer that delights in crafting apps and automating stuff.  
+I'm a Web & Software Engineer that delights in crafting apps and automating stuff.
+
+Currently in Dublin, Ireland.
 
 #### [💼 Portfolio](https://portfolio.tdiam.me) · [Résumé](https://portfolio.tdiam.me/about) · [Get in touch](https://portfolio.tdiam.me/contact)
 
@@ -11,3 +13,4 @@ I'm a Web & Software Engineer that delights in crafting apps and automating stuf
 | [discourse](https://github.com/discourse/discourse/issues?q=author%3Atdiam)
 | [graphene](https://github.com/graphql-python/graphene/issues?q=author%3Atdiam)
 | [tsqlstring](https://github.com/kylefarris/tsqlstring/issues?q=author%3Atdiam)
+| [fuz](https://github.com/Magnushhoie/fuz/issues?q=author%3Atdiam)
